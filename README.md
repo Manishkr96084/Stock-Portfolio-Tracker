@@ -1,4 +1,4 @@
 ﻿# Stock-Portfolio-Tracker
 
-Completed By- Manish Kumar 
+
 
